@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0e05bpM4koMb23G2RIztt9prhAJaHFlxDFrJ1G86NQ9y0YLHsJqhi3mGJy0l3DZZRP8zBHTYsAc0hRtgxifOKw==",
+  "dgSpecHash": "6B/1R96uGZ9Grx22efoIb4Yd+NBEvM0t3VbV3LfCiy5DtOi0atMuH1qCG3WH+JYnTLPX+xeRqUHE4SuYLp1upA==",
   "success": true,
   "projectFilePath": "C:\\Users\\389487\\PROG3\\News\\News\\News.Android\\News.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",

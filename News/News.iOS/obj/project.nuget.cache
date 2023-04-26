@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/Mu4hQVd+VBgMNijiTEhYd7/2mFV8Ejv9aE1dGFSgCnIJIaSupIXSbFsD+W5w4wONB5pC2PaF6YliRk+Aey2aA==",
+  "dgSpecHash": "tEwQIVZIKp/akCE4mdUKcyao8It2jFHU5HWxoOCicgU/TTP7ndXdXOtWzPjyUha+WLT5bLePeFnUkTLFEwcVZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\389487\\PROG3\\News\\News\\News.iOS\\News.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",

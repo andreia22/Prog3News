@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BCY15om2C0qWcxTFhOllRdTstagq3QJq8zx8T/D5NkMHo0icQ4GRMpowO9tJ4uB8O4DqLYMsw/OIyn0NoKd0JQ==",
+  "dgSpecHash": "gswgfa5SAOxjtVZQtbWaxUlQ62kTNTdm9Q9o+UiTZbaaDoOJkfkhIiVhOMYuu2TMDMTFkvbGDp8ydlKAbBZD4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\389487\\PROG3\\News\\News\\News\\News.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

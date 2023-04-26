@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
-      "Autofac/7.0.0": {
+      "Autofac/7.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "1.1.0",
@@ -215,15 +215,15 @@
     }
   },
   "libraries": {
-    "Autofac/7.0.0": {
-      "sha512": "phR/GEk5h2kQWbMl70cZzCW5ysGxmz2ClaX5CuTw9qc3wtdDu3l9GAhWiWmZLltCytEIxIw98NtAraiOxazqLg==",
+    "Autofac/7.0.1": {
+      "sha512": "J9Iz0Q+YU3uf82i8Lee0NpQOlRYfwHxwVV26jdG3zH3LFE5Y9Rx97Mju7Nswwzh/C7kVJALkTL860Y7e+mcLaw==",
       "type": "package",
-      "path": "autofac/7.0.0",
+      "path": "autofac/7.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "autofac.7.0.0.nupkg.sha512",
+        "autofac.7.0.1.nupkg.sha512",
         "autofac.nuspec",
         "icon.png",
         "lib/net6.0/Autofac.dll",
@@ -910,7 +910,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Autofac >= 7.0.0",
+      "Autofac >= 7.0.1",
       "NETStandard.Library >= 2.0.3",
       "PropertyChanged.Fody >= 4.1.0",
       "Xamarin.Essentials >= 1.7.0",
@@ -964,7 +964,7 @@
         "dependencies": {
           "Autofac": {
             "target": "Package",
-            "version": "[7.0.0, )"
+            "version": "[7.0.1, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",

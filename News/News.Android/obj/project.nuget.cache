@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6B/1R96uGZ9Grx22efoIb4Yd+NBEvM0t3VbV3LfCiy5DtOi0atMuH1qCG3WH+JYnTLPX+xeRqUHE4SuYLp1upA==",
+  "dgSpecHash": "AOfnzKHendcFInZRxHIaBkaWNrVcesesSme2Whs7+GH3NWqIdxbY1QB4N7gMGt3r08fTFtuKdQbwduncKvkmWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\389487\\PROG3\\News\\News\\News.Android\\News.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

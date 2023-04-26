@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gswgfa5SAOxjtVZQtbWaxUlQ62kTNTdm9Q9o+UiTZbaaDoOJkfkhIiVhOMYuu2TMDMTFkvbGDp8ydlKAbBZD4g==",
+  "dgSpecHash": "q3pMnkZVETQ8bFW3BLfswelyf5Nz4DmmCV1g6e7rmA8iMkpEgJvfCVbmIiuZRBHR41egvd66Jg1B7lb9lJx3zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\389487\\PROG3\\News\\News\\News\\News.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\389487\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",

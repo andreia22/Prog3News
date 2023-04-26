@@ -1,16 +1,20 @@
 ﻿using News.Models;
 using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Net;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace News.Services
 {
-    class NewsService
+    public class NewsService
     {
         public async Task<NewsResult> GetNews(NewsScope scope)
         {
-            return null;
+            string url = GetUrl(scope);
+            var client = new WebClient();
+            var jsonResult = await client.DownloadStringTaskAsync(url);
+            NewsResult retorno = JsonConvert.DeserializeObject<NewsResult>(jsonResult);
+            return retorno;
         }
 
         public string GetUrl(NewsScope scope)
@@ -30,12 +34,12 @@ namespace News.Services
             "country=us&" +
             $"apikey={Settings.NewsApiKey}";
     
-    public string Local =>
+        public string Local =>
            "https://newsapi.org/v2/yop-everything?" +
            "q=Local&" +
            $"apikey={Settings.NewsApiKey}";
 
-    public string Global =>
+        public string Global =>
           "https://newsapi.org/v2/yop-everything?" +
           "q=global&" +
           $"apikey={Settings.NewsApiKey}";

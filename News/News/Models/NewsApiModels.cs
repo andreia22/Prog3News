@@ -15,7 +15,7 @@ namespace News.Models
 
     public class Article
     {
-        public Source source { get; set; }
+        public Source Source { get; set; }
 
         public string Author { get; set; }
 

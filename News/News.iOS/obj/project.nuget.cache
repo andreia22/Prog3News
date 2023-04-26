@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tEwQIVZIKp/akCE4mdUKcyao8It2jFHU5HWxoOCicgU/TTP7ndXdXOtWzPjyUha+WLT5bLePeFnUkTLFEwcVZw==",
+  "dgSpecHash": "Zn66Vy9vTAc5HmgYZgO7fSlL4WB5dAXu7n7Yo5oKmMgbULO5fK/0T+Th2VZHwCqvG1+mMpPAzZlS4LuJ05ucCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\389487\\PROG3\\News\\News\\News.iOS\\News.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\389487\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\389487\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

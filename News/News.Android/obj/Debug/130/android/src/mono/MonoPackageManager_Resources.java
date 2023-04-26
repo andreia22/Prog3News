@@ -6,6 +6,7 @@ public class MonoPackageManager_Resources {
 		"Autofac.dll",
 		"FormsViewGroup.dll",
 		"News.dll",
+		"Newtonsoft.Json.dll",
 		"PropertyChanged.dll",
 		"System.Diagnostics.DiagnosticSource.dll",
 		"Xamarin.AndroidX.Activity.dll",
